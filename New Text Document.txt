@@ -1,0 +1,3 @@
+Wordpress vs Rails
+
+http://bernardic.ca/2012/07/08/rails-vs-wordpress/
